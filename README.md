@@ -24,4 +24,5 @@
   ## Links to Activity Guides
   
   - [Activity 4.1](https://docs.google.com/document/d/15CrmqLYz7B38kLY_DR-M3S2KHm1q_mizsQHGjg62lYU/edit?usp=sharing)
+  - [Activity 4.2](https://docs.google.com/document/d/12QCRmcaoO9iL56vkWUKGIBJOdIqZJUzk2FLfEr4uZ0Q/edit?usp=sharing)
   
