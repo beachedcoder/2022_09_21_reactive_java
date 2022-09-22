@@ -8,6 +8,7 @@
   - [Reactive Streams @ Github](https://github.com/reactive-streams/reactive-streams-jvm)
   - [Reactor Github docs](https://github.com/reactor)
   - [Project Reactor Projet Docs](https://projectreactor.io/docs)
+  - [RSocket for communication](https://rsocket.io/)
 
 ## Tools for activities
 
