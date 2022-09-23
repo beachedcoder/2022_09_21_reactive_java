@@ -35,4 +35,8 @@
   - [Activity 6.2](https://docs.google.com/document/d/10m_AL2L1HFtJp-BHymYX38A9ezRjdl17ZeteE4akK-I/edit?usp=sharing)
   - [Activity 6.3](https://docs.google.com/document/d/1vMuWRdYYevb-q0irjx3f4gBTJtHNHSdxbq41fAyGrko/edit?usp=sharing)
   - [Activity 6.4](https://docs.google.com/document/d/1QmxURCC1npygahuc7x5D2BLAJkRWHwMjwFPyQ5-C2VM/edit?usp=sharing)
+  - [Activity 7.1](https://docs.google.com/document/d/1sAG6NYJjWed81cehGE5XZbtTkwei5F8xYosDvJWER5w/edit?usp=sharing)
+  - [Activity 7.2](https://docs.google.com/document/d/1ARWKKwD8dYev4CgqAoUfhD1dk_e_Ue74Z39FywaEZ44/edit?usp=sharing)
+  - [Activity 7.3](https://docs.google.com/document/d/1tNnP-JZ5CUZbJxarheMdGo5F9nyIK7b9yydwAhCeDMU/edit?usp=sharing)
+  - [Activity 7.4](https://docs.google.com/document/d/1bJceqfE3bITG_jgLqUKPttlcLxBBIi8fzKbvR6w4scY/edit?usp=sharing)
   
